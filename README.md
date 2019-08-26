@@ -5,4 +5,5 @@ The data to use with this script is in this repository labeled "Male Liver FAMES
 
 Open the script and run through it with the .csv file in the same directory to view the dotplot.
 
+![alt text](https://github.com/vinmperez/Dotplot-Metabolomics-R/16_0.png)
 
